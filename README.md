@@ -1,4 +1,4 @@
-# :pizza: Food Website :fork_and_knife
+# :pizza: Food Website :fork_and_knife:
 
 ## Esse projeto consiste em uma one page de restaurante, construida com HTML5 & CSS3 Layout Flexbox & Responsive & JavaScript
 
